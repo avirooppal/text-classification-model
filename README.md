@@ -16,8 +16,9 @@ pip install scikit-learn
 ### Running the Script
 
 1. Clone the repository:
-git clone https://github.com/yourusername/text-classification-python.git
-
+```
+git clone https://github.com/avirooppal/text-classification-model.git
+```
 
 Copy code
 
