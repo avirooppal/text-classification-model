@@ -10,8 +10,8 @@ To run this script, you need to have Python installed on your system along with 
 
 - Python 3.x: [Download Python](https://www.python.org/downloads/)
 - scikit-learn: Install scikit-learn using pip:
-  ```
-  pip install scikit-learn
+```
+pip install scikit-learn
   ```
 ### Running the Script
 
@@ -22,13 +22,15 @@ git clone https://github.com/yourusername/text-classification-python.git
 Copy code
 
 2. Navigate to the project directory:
- ```cd text-classification-python
+```
+cd text-classification-python
  ```
 
 
 
 3. Run the script:
- ```python text_classification.py
+ ```
+python text_classification.py
  ```
 
 
